@@ -1,0 +1,6 @@
+{
+  "name": "Rule6 Shield",
+  "description": "Packaged commodities Legal Metrology (Packaged Commodities) Rules, 2011 compliance verification platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
